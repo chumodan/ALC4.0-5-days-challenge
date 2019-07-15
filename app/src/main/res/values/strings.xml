@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">5 days Challenge</string>
+    <string name="title_activity_about_alc">AboutAlcActivity</string>
+    <string name="label_name">"\@Chumo"</string>
+</resources>
